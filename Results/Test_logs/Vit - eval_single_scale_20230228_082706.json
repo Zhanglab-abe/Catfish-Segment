@@ -1,0 +1,18 @@
+{
+    "config": "configs/ade20k/upernet_beit_adapter_large_640_160k_ade20k_ss.py",
+    "metric": {
+        "aAcc": 0.9884999999999999,
+        "mIoU": 0.8792,
+        "mAcc": 0.9401,
+        "IoU.Background": 0.9955000305175781,
+        "IoU.Head": 0.8065000152587891,
+        "IoU.Body": 0.9308000183105469,
+        "IoU.Fins": 0.7986000061035157,
+        "IoU.Tail": 0.864800033569336,
+        "Acc.Background": 0.9977999877929687,
+        "Acc.Head": 0.8569999694824219,
+        "Acc.Body": 0.9613999938964843,
+        "Acc.Fins": 0.9141000366210937,
+        "Acc.Tail": 0.9702999877929688
+    }
+}

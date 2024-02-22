@@ -1,0 +1,18 @@
+{
+    "config": "/home/agricoptics/Desktop/CatFish/mmsegmentatation_beit/configs/beit/upernet_beit-base_640x640_160k_ade20k_ms.py",
+    "metric": {
+        "aAcc": 0.9754,
+        "mIoU": 0.7731,
+        "mAcc": 0.8668,
+        "IoU.Background": 0.9887000274658203,
+        "IoU.Head": 0.6209000015258789,
+        "IoU.Body": 0.8556999969482422,
+        "IoU.Fins": 0.6601000213623047,
+        "IoU.Tail": 0.7402999877929688,
+        "Acc.Background": 0.9926000213623047,
+        "Acc.Head": 0.7044000244140625,
+        "Acc.Body": 0.9433000183105469,
+        "Acc.Fins": 0.8198999786376953,
+        "Acc.Tail": 0.8737000274658203
+    }
+}

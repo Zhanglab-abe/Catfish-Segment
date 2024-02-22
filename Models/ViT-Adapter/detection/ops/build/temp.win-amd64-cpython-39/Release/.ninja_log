@@ -1,0 +1,8 @@
+# ninja log v5
+10	2626	6961905229983804	C:/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/build/temp.win-amd64-cpython-39/Release/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/src/cpu/ms_deform_attn_cpu.obj	5872aea35c593ad2
+53	9206	6961905295755184	C:/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/build/temp.win-amd64-cpython-39/Release/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/src/vision.obj	30122f451a94c385
+16	11754	6961905321261674	C:/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/build/temp.win-amd64-cpython-39/Release/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/src/cuda/ms_deform_attn_cuda.obj	938d28f9f0a24162
+8	12271	6961907554741908	C:/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/build/temp.win-amd64-cpython-39/Release/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/src/cuda/ms_deform_attn_cuda.obj	938d28f9f0a24162
+8	11620	6961907770791350	C:/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/build/temp.win-amd64-cpython-39/Release/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/src/cuda/ms_deform_attn_cuda.obj	938d28f9f0a24162
+8	12245	6961909974256585	C:/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/build/temp.win-amd64-cpython-39/Release/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/src/cuda/ms_deform_attn_cuda.obj	938d28f9f0a24162
+11	11326	6961911906532294	C:/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/build/temp.win-amd64-cpython-39/Release/Users/tt1422.ABE-HCJ0SK3/Desktop/CatFish/ViT-Adapter/detection/ops/src/cuda/ms_deform_attn_cuda.obj	938d28f9f0a24162
