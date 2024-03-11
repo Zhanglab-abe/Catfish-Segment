@@ -11,14 +11,14 @@
 *This repo is owned by the [Sensing and Automation in Agri-System (SAAS) Lab](https://sites.google.com/view/xin-zhang-lab/home) in the Department of Agricultural & Biological Engineering at Mississippi State University. Please contact the lab PI, [Dr. Xin Zhang](https://www.abe.msstate.edu/people/faculty/xin-zhang/), if you have any questions regarding this repo.*
 
 # How to use this repo?
-- [**Data**](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Data)
+- [**Data**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Data)
   - Catfish images acquired in a processing plant in Alabama, USA (JPG format)
   - Annotations of catfish images created manually (PNG format)
 
-- [**Split_and_Augmentations**](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Split_and_Augmentations)
+- [**Split_and_Augmentations**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Split_and_Augmentations)
   - Developed Python code (IPYNB) for splitting the dataset, exporting the image masks from the LabelBox, and augmenting the images for a larger dataset.
 
-- [**Pixel_wise_analysis**](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Pixel_wise_analysis)
+- [**Pixel_wise_analysis**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Pixel_wise_analysis)
   - Developed Python code (PY) for checking the pre-defined five (5) segmentation classes in the dataset, including:
     - `Background`
     - `Head`
@@ -26,7 +26,7 @@
     - `Fins`
     - `Tails`
 
-- [**Models**](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Models)
+- [**Models**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Models)
   - Deployed deep learning-based semantic segmentation models in this work, including:
     - BEiT
     - PSPNet
@@ -35,15 +35,15 @@
       - B5
     - ViT-Adapter
 
-- [**Trained_weights**](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Trained_weights)
+- [**Trained_weights**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights)
   - BEiT (2.1 GB)
-  - [PSPNet](https://github.com/Zhanglab-abe/CatFish-Segment/blob/main/Trained_weights/PSPNet.pth) (520 MB)
+  - [PSPNet](https://github.com/Zhanglab-abe/Catfish-Segment/blob/main/Trained_weights/PSPNet.pth) (520 MB)
   - SegFormer
-    - [B0](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Trained_weights/SegFormerB0/checkpoint-7200/optimizer.pt) (28.5 MB)
-    - [B5](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Trained_weights/SegFormerB5/optimizer.pt) (646 MB)
+    - [B0](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights/SegFormerB0/checkpoint-7200/optimizer.pt) (28.5 MB)
+    - [B5](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights/SegFormerB5/optimizer.pt) (646 MB)
   - ViT-Adapter (5.5 GB)
 
-- [**Results**](https://github.com/Zhanglab-abe/CatFish-Segment/tree/main/Results)
+- [**Results**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Results)
   - Test inference of catfish segmentation using the trained models
   - Typical failures in catfish segmentation due to the small size of the imagery dataset
 
