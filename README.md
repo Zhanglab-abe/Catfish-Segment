@@ -14,8 +14,8 @@
 
 # How to use this repo?
 - [**Data**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Data)
-  - Catfish images acquired in a processing plant in Alabama, USA (JPG format)
-  - Annotations of catfish images created manually (PNG format)
+  - Catfish images (JPG) acquired in a processing plant in Alabama, USA
+  - Annotations of catfish images (PNG) created manually
 
 - [**Split_and_Augmentations**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Split_and_Augmentations)
   - Developed Python code (IPYNB) for splitting the dataset, exporting the image masks from the LabelBox, and augmenting the images for a larger dataset.
