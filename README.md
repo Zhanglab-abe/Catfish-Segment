@@ -1,6 +1,8 @@
 # [Sensing and Automation in Agri-System (SAAS) Lab](https://sites.google.com/view/xin-zhang-lab/home)
-## [Department of Agricultural & Biological Engineering](https://www.abe.msstate.edu/)
-## [Mississippi State University](https://www.msstate.edu/)
+
+[**Department of Agricultural & Biological Engineering**](https://www.abe.msstate.edu/)
+
+[**Mississippi State University**](https://www.msstate.edu/)
 
 # Why do we create this repo?
 *This repo is created for accompanying the conference publication of **"Automating catfish cutting process using deep learning-based semantic segmentation"** in Sensing for Agriculture and Food Quality and Safety XV (Vol. 12545, pp. 103-116). SPIE. [DOI](https://doi.org/10.1117/12.2663370)*
