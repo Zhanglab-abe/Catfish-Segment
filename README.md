@@ -38,12 +38,13 @@
     - ViT-Adapter
 
 - [**Trained_weights**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights)
-  - BEiT (2.1 GB)
-  - [PSPNet](https://github.com/Zhanglab-abe/Catfish-Segment/blob/main/Trained_weights/PSPNet.pth) (520 MB)
-  - SegFormer
-    - [B0](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights/SegFormerB0/checkpoint-7200/optimizer.pt) (28.5 MB)
-    - [B5](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights/SegFormerB5/optimizer.pt) (646 MB)
-  - ViT-Adapter (5.5 GB)
+  - Best trained weights of the five (5) segmentation models using the train set of the catfish images, which should allow you to quickly test the segmentation inference of catfish:
+    - BEiT (2.1 GB)
+    - [PSPNet: PSPNet.pth](https://github.com/Zhanglab-abe/Catfish-Segment/blob/main/Trained_weights/PSPNet.pth) (520 MB)
+    - SegFormer
+      - [B0: optimizer.pt](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights/SegFormerB0/checkpoint-7200/optimizer.pt) (28.5 MB)
+      - [B5: optimizer.pt](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Trained_weights/SegFormerB5/optimizer.pt) (646 MB)
+    - ViT-Adapter (5.5 GB)
 
 - [**Results**](https://github.com/Zhanglab-abe/Catfish-Segment/tree/main/Results)
   - Test inference of catfish segmentation using the trained models
